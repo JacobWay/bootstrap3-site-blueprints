@@ -1,0 +1,29 @@
+{
+  "name": "siteBlueprints",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JacobWay/bootstrap3-site-blueprints",
+  "authors": [
+    "JacobWay <soarinblue@gmail.com>"
+  ],
+  "description": "bootstrap3 site blueprints book, the study project",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bootstrap3",
+    "css",
+    "html",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5-boilerplate": "~5.2.0"
+  }
+}
