@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap3-site-blueprints",
+  "version": "0.0.0",
+  "description": "bootstrap3 site blueprint, the book study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobWay/bootstrap3-site-blueprints.git"
+  },
+  "keywords": [
+    "bootstrap3",
+    "web",
+    "front",
+    "end",
+    "html",
+    "css",
+    "less",
+    "javascript"
+  ],
+  "author": "Jacob Way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobWay/bootstrap3-site-blueprints/issues"
+  },
+  "homepage": "https://github.com/JacobWay/bootstrap3-site-blueprints#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.4"
+  }
+}
